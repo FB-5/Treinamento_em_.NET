@@ -1,4 +1,4 @@
-# Treinamento_em_.NET
+# Treinamento (da Dio) em .NET C#
 
 Projeto: aprender como criar um algoritmo simples de cadastro.
 
